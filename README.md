@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Typing Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vedant+Vasava;CSE+Student;Future+ML+Engineer;Flask+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vedant+Vasava;CSE+Student;Machine+Learning+Learner;Flask+Developer" />
 </p>
 
 ---
@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-* 🔭 Working on real-world **Machine Learning projects**
+* 🔭 Working on **Machine Learning projects**
 * 📚 Learning **Data Science & Backend Development**
-* 🌱 Building full-stack apps using **Flask**
-* 🧩 Interested in solving real-world problems using data
+* 🌱 Building apps using **Flask**
+* ⚡ Goal: Become a **Data Scientist / ML Engineer**
 
 ---
 
@@ -35,9 +35,9 @@
 
 ### 🔹 Customer Segmentation Web App
 
-* End-to-end ML project for customer segmentation
-* Built using **Python, Flask, Machine Learning**
-* Provides insights into customer groups for business decisions
+* End-to-end ML + Web application
+* Built using **Flask + ML models**
+* Helps businesses understand customer groups
 
 👉 https://github.com/vedantvsv/Customer_Segmentation_Webapp
 
@@ -45,9 +45,9 @@
 
 ### 🔹 Customer Churn Prediction
 
-* Predicts whether a customer will leave a service
-* Uses classification algorithms for prediction
-* Helps businesses reduce churn
+* ML model to predict customer churn
+* Uses classification algorithms
+* Business-focused predictive system
 
 👉 https://github.com/vedantvsv/customer-churn-prediction
 
@@ -55,9 +55,9 @@
 
 ### 🔹 Sentiment Analysis
 
-* NLP-based project to analyze text sentiment
-* Classifies data into positive/negative sentiment
-* Useful for social media & review analysis
+* Basic text analysis project
+* Explores simple classification techniques
+* Learning-focused implementation
 
 👉 https://github.com/vedantvsv/sentiment-analysis
 
@@ -65,8 +65,8 @@
 
 ### 🔹 Practice Repository
 
-* Collection of coding practice & problem solving
-* Includes DSA and programming exercises
+* Collection of coding & problem solving
+* Includes DSA practice
 
 👉 https://github.com/vedantvsv/practice
 
@@ -97,6 +97,14 @@
 
 ---
 
+## 🧠 Currently Learning
+
+* Machine Learning Algorithms
+* Data Science Concepts
+* Backend Development with Flask
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -107,12 +115,6 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
----
-
-## ⚡ Quote
-
-> "Consistency beats talent when talent doesn’t work hard."
 
 ---
 
